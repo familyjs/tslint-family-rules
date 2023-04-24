@@ -1,6 +1,6 @@
 {
   "name": "tslint-family-rules",
-  "version": "0.0.21-0",
+  "version": "0.0.21",
   "description": "Common TypeScript lint rules/preferences for Family.",
   "main": "tslint.js",
   "repository": {
