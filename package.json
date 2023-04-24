@@ -31,7 +31,7 @@
   "homepage": "https://github.com/familyjs/tslint-family-rules#readme",
   "scripts": {
     "build": "tsc --project .",
-    "release": "np",
+    "release": "np --any-branch",
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
