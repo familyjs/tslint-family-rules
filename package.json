@@ -32,7 +32,8 @@
   "scripts": {
     "build": "tsc --project .",
     "release": "np --any-branch",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "test": "echo test"
   },
   "dependencies": {
     "@types/node": "^10.9.4",
